@@ -1,0 +1,14 @@
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe.config
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.exe
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\WindowsFormsDatabase.pdb
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Form1.resources
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.Properties.Resources.resources
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.csproj.CopyComplete
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.exe
+C:\Users\Sergey\Desktop\С#\WindowsFormsDatabase\WindowsFormsDatabase\obj\Debug\WindowsFormsDatabase.pdb
